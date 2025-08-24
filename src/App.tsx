@@ -1,5 +1,4 @@
-import React from 'react';
-import { BookOpen, AlertCircle, FileText, Shield } from 'lucide-react';
+import {  AlertCircle, FileText, Shield } from 'lucide-react';
 import { Header } from './components/Header';
 import { AnimatedBackground } from './components/AnimatedBackground';
 import { Section } from './components/Section';
